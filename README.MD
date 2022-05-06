@@ -30,11 +30,17 @@
 
 # 参数
 Usage of toip:
+
   -l string
         url文件路径 (default "url.txt")
+        
   -n    对域名进行DNS解析
+  
   -o string
         保存到文件
+        
   -p    保留PORT
+  
   -q    直接输出IP/域名，其他内容不输出
+  
 
