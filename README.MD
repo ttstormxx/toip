@@ -25,6 +25,7 @@
 静默输出
 
 `cat url.txt|toip  -p  -n   -o result.txt   -q`
+
 <img width="624" alt="Snipaste_2022-05-06_18-48-25" src="https://user-images.githubusercontent.com/48342077/167119099-20fe2c0f-3463-469e-b8dc-0ebb4b4af693.png">
 
 # 参数
