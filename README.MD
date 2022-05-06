@@ -3,6 +3,7 @@
 
 # 用法
 处理不规则输入
+
 `echo google.com/sssssss|toip`
 
 `echo google.com:9999/sssssss|toip`
@@ -15,12 +16,14 @@
 
 
 从指定文件读取，保留port，域名解析，输出到指定文件
+
 `cat url.txt|toip  -p  -n   -o result.txt`
 
 ![image.png](https://note.youdao.com/yws/res/34761/WEBRESOURCEc18097a1f1f4ecc75931db66e7105b86)
 
 
 静默输出
+
 `cat url.txt|toip  -p  -n   -o result.txt   -q`
 
 ![image.png](https://note.youdao.com/yws/res/34766/WEBRESOURCEb7ce4b1434a2af96200d462adb87a651)
