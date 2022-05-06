@@ -19,14 +19,13 @@
 
 `cat url.txt|toip  -p  -n   -o result.txt`
 
-![image.png](https://note.youdao.com/yws/res/34761/WEBRESOURCEc18097a1f1f4ecc75931db66e7105b86)
+<img width="461" alt="Snipaste_2022-05-06_18-46-49" src="https://user-images.githubusercontent.com/48342077/167119078-a60ac41d-c246-488a-91a1-deaf8801f8fe.png">
 
 
 静默输出
 
 `cat url.txt|toip  -p  -n   -o result.txt   -q`
-
-![image.png](https://note.youdao.com/yws/res/34766/WEBRESOURCEb7ce4b1434a2af96200d462adb87a651)
+<img width="624" alt="Snipaste_2022-05-06_18-48-25" src="https://user-images.githubusercontent.com/48342077/167119099-20fe2c0f-3463-469e-b8dc-0ebb4b4af693.png">
 
 # 参数
 Usage of toip:
